@@ -1,0 +1,3 @@
+.DS_Store
+/docker/env/*
+/docker/logs/*
